@@ -1,0 +1,16 @@
+{
+  "name": "location",
+  "plural": "location",
+  "base": "Model",
+  "idInjection": true,
+  "properties": {
+    "coordinates": {
+      "type": "any",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}
